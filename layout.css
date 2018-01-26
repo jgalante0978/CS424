@@ -17,3 +17,7 @@ body {
 */    /*overflow:visible;*/
 }
 
+img {
+	border-color: transparent;
+}
+
