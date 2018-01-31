@@ -17,10 +17,6 @@ body {
 */    /*overflow:visible;*/
 }
 
-table, th, td {
-	border: 20;
-}
-
 img {
 	border-color: transparent;
 }
