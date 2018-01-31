@@ -18,6 +18,11 @@ body {
 }
 
 img {
+	border: 20;
 	border-color: transparent;
+}
+
+h4 {
+	border-left: 20;
 }
 
